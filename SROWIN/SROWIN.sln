@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "SROWIN", "SROWIN\SROWIN.sfproj", "{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webservice", "Webservice\Webservice.csproj", "{4B7C2411-662C-4386-BD83-7E7DBD287134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}.Debug|x64.ActiveCfg = Debug|x64
+		{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}.Debug|x64.Build.0 = Debug|x64
+		{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}.Debug|x64.Deploy.0 = Debug|x64
+		{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}.Release|x64.ActiveCfg = Release|x64
+		{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}.Release|x64.Build.0 = Release|x64
+		{DB6ED1A9-618E-4052-A293-E3DC2EAEEFB8}.Release|x64.Deploy.0 = Release|x64
+		{4B7C2411-662C-4386-BD83-7E7DBD287134}.Debug|x64.ActiveCfg = Debug|x64
+		{4B7C2411-662C-4386-BD83-7E7DBD287134}.Debug|x64.Build.0 = Debug|x64
+		{4B7C2411-662C-4386-BD83-7E7DBD287134}.Release|x64.ActiveCfg = Release|x64
+		{4B7C2411-662C-4386-BD83-7E7DBD287134}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC2972C-1CA7-4E30-BDDC-72D286A97551}
+	EndGlobalSection
+EndGlobal
